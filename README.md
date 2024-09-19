@@ -1,5 +1,5 @@
 # 👋🏻 Hello! I'm Francisco and welcome to my profile:
-🤺 I'm currently working in both front-end and back-end<br>🕵🏻‍♂️ I'm learning Javascript<br>
+🤺 I'm currently working in full-stack<br>🕵🏻‍♂️ I'm learning Javascript<br>
 
 
 ## 🌐 Socials:
