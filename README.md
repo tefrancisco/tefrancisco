@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏻 Hello! I'm Francisco, a front-end developer from Brazil<br>🕵🏻‍♂️I'm currently learning React
+👋🏻 Hello! I'm Francisco, a front-end developer from Brazil<br>🕵🏻‍♂️ I'm currently learning Next.js
 
 
 ## 🌐 Socials:
@@ -16,3 +16,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
